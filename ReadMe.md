@@ -6,13 +6,13 @@
   - [Group 2](#group-2)
     - [Members](#members)
     - [Project Description](#project-description)
+    - [Code Links](#code-links)
     - [Demo](#demo)
         - [Start of the tour](#start-of-the-tour)
         - [The interplace teleportation](#the-interplace-teleportation)
         - [Navigation](#navigation)
         - [Intraplace teleportation](#intraplace-teleportation)
         - [Information and videos](#information-and-videos)
-    - [Running the project](#running-the-project)
 
 ## Group 2
 >This file contains some gifs to show how the functionality takes place. It is recommended to use the markdown file for better image rendering.
@@ -22,10 +22,6 @@
 | ----------- | ----------- | ------- |
 | 1 | Satvik Tiwari | 200101091 |
 | 2 | Pranjal Baranwal | 200101083 |
-| 3 | Pauras Manoj Tarle |200101074
-| 4 | Yash Garg | 200101113 |
-| 5 | Abhinav Kumar Choudhary |200101005|
-| 6 | Hemant Kumar Meena | 200101041 |
 
 ### Project Description
 This project was made for the preservation of a river island named Majuli. This project has the following features:
@@ -40,6 +36,9 @@ This project was made for the preservation of a river island named Majuli. This 
     * Notifications
     * Videos at some places
     * Information regarding a place
+
+### Code Links
+All the codes for different subparts of the project can be found at the following link: https://iitgoffice-my.sharepoint.com/:f:/g/personal/pranjal_baranwal_iitg_ac_in/EhY5p8dOWdRCkZJtddblOgMBvCTDs47gz-MNVwJqj2vmtA?e=0cSnfF
 
 ### Demo
 
@@ -88,13 +87,5 @@ Now open your tablet and you will be shown a dropdown at the bottom of the scree
 Some of the locations have an info button or a video. When you arrive at such a location, you will hear a notification. Then you can click on it and the corresponding video or information will be shown to you.
 
 ![info](assets/info.gif)
-
----
-
-### Running the project
-
-1. Open the project present in the 'D' Drive of the UCNET lab PC using unity.
-2. Click on the play button to run the project.
-3. This will do all the necessary steps to run the project.
 
 ---
